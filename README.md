@@ -1,7 +1,6 @@
-Data Science Analysis of Housing Affordability Dynamics
-in London Boroughs
+Data Science Analysis of Housing Affordability Dynamics in London Boroughs
+================================================================================
 
---------------------------------------------------------------------------------
 1. OVERVIEW
 --------------------------------------------------------------------------------
 This project analyses housing affordability across London boroughs (2004-2024)
